@@ -1,0 +1,32 @@
+#EXTM3U
+
+
+#EXTINF:- CARLITOS & SNOOPY
+http://192.99.233.158/disco2/Peliculas/Animadas/Carlitos-y-Snoopy.mp4
+
+#EXTINF:- COCO
+http://192.99.233.158/disco2/Peliculas/Animadas/Coco.mkv
+
+#EXTINF:- CONDORITO
+http://192.99.233.158/disco2/Peliculas/Animadas/Condorito%20La%20Pelicula.mkv
+
+#EXTINF:-DEL REVES
+http://192.99.233.158/disco2/Peliculas/Animadas/Del-Reves.mp4
+
+#EXTINF:- EL PRINCIPITO
+http://192.99.233.158/disco2/Peliculas/Animadas/El-Principito.mp4
+
+#EXTINF:- EL REY LEON
+http://192.99.233.158/disco2/Peliculas/Animadas/El-Rey-Leon.mp4
+
+#EXTINF:-  EL CAVERNICOLA
+http://192.99.233.158/disco2/Peliculas/Animadas/El%20Cavernicola.mkv
+
+#EXTINF:- EL EXPRESO POLAR
+http://192.99.233.158/disco2/Peliculas/Animadas/Expreso-Polar.mp4
+
+#EXTINF:- FROZEN
+http://192.99.233.158/disco2/Peliculas/Animadas/Frosen-El-Reino-del-Hielo.mp4
+
+#EXTINF:-  GNOMOS AL ATAQUE
+http://192.99.233.158/disco2/Peliculas/Animadas/Gnomos%20Al%20Ataque.mkv
